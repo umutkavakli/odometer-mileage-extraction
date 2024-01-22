@@ -1,0 +1,6 @@
+train: ../dataset/train
+val: ../dataset/val
+test: ../dataset/test
+
+nc: 2
+names: ['analog', 'digital']
